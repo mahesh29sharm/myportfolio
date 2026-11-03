@@ -1,0 +1,800 @@
+{
+  "schema_version": "1.0",
+  "archive_title": "A Personal Creative Archive",
+  "generated_on": "2026-11-03",
+  "asset_root": ".",
+  "summary": {
+    "usable_assets": 61,
+    "collections": 8,
+    "exact_duplicate_groups": 1,
+    "video_assets": 0
+  },
+  "context_labels": [
+    "commissioned",
+    "self-initiated",
+    "published",
+    "exploratory-unselected",
+    "personal",
+    "unconfirmed"
+  ],
+  "collections": [
+    {
+      "id": "visual-stories",
+      "order": 1,
+      "title": "Visual Stories",
+      "story": "Information given atmosphere through continuous illustrated narratives.",
+      "presentation": "Full-width horizontal readers that preserve each strip's composition."
+    },
+    {
+      "id": "imaginary-worlds",
+      "order": 2,
+      "title": "Imaginary Worlds",
+      "story": "Portraiture reconstructed as atmosphere, composition, and world-building.",
+      "presentation": "Monumental poster triptych with object mockups as secondary evidence."
+    },
+    {
+      "id": "brands-in-the-wild",
+      "order": 3,
+      "title": "Brands in the Wild",
+      "story": "Restaurant brands expressed through process, food, language, and campaigns.",
+      "presentation": "A quiet Fervor workbench followed by a lively SuperNaati campaign wall."
+    },
+    {
+      "id": "marks-and-meaning",
+      "order": 4,
+      "title": "Marks & Meaning",
+      "story": "Concepts compressed into elemental symbols.",
+      "presentation": "Sparse specimen room and a full-family constellation."
+    },
+    {
+      "id": "things-i-built",
+      "order": 5,
+      "title": "Things I Built",
+      "story": "Digital places built for expression and participation.",
+      "presentation": "A readable mobile journey from discovery to writing."
+    },
+    {
+      "id": "stories-that-travel",
+      "order": 6,
+      "title": "Stories That Travel",
+      "story": "Published storytelling shown as an object and as documentary evidence of circulation.",
+      "presentation": "Book-led display with a captioned evidence wall."
+    },
+    {
+      "id": "building-from-zero",
+      "order": 7,
+      "title": "Building a Brand From Zero",
+      "story": "Lucio's early identity and creative foundation through the lens of founding design.",
+      "presentation": "Architectural banner, restrained identity specimen, and human-scale applications."
+    },
+    {
+      "id": "behind-the-work",
+      "order": 8,
+      "title": "Behind the Work",
+      "story": "The observations, objects, environments, and person behind the archive.",
+      "presentation": "Portrait and desk anchors surrounded by an irregular photographic contact strip."
+    }
+  ],
+  "assets": [
+    {
+      "id": "visual-arcane",
+      "path": "Carousel- visual storytelling/Arcane 1.jpg",
+      "media_type": "image/jpeg",
+      "dimensions": [16000, 2000],
+      "collection": "visual-stories",
+      "group": "Udgamreads",
+      "role": "hero-sequence",
+      "context": "unconfirmed",
+      "status": "ready",
+      "description": "Dark teal mythic forest narrative with spectral figures and expressive type."
+    },
+    {
+      "id": "visual-flash",
+      "path": "Carousel- visual storytelling/Flash 1.jpg",
+      "media_type": "image/jpeg",
+      "dimensions": [11200, 2000],
+      "collection": "visual-stories",
+      "group": "Udgamreads",
+      "role": "sequence",
+      "context": "unconfirmed",
+      "status": "ready",
+      "description": "Kinetic neon explainer about why the Flash does not burn."
+    },
+    {
+      "id": "visual-oppenheimer",
+      "path": "Carousel- visual storytelling/Oppenheimer 1.jpg",
+      "media_type": "image/jpeg",
+      "dimensions": [16000, 2000],
+      "collection": "visual-stories",
+      "cross_links": ["imaginary-worlds"],
+      "group": "Udgamreads",
+      "role": "hero-sequence",
+      "context": "unconfirmed",
+      "status": "ready",
+      "description": "Incandescent science-and-cinema narrative using atomic imagery."
+    },
+    {
+      "id": "visual-time",
+      "path": "Carousel- visual storytelling/image 95.jpg",
+      "media_type": "image/jpeg",
+      "dimensions": [12800, 2000],
+      "collection": "visual-stories",
+      "group": "Udgamreads",
+      "role": "collection-closer",
+      "context": "unconfirmed",
+      "status": "ready",
+      "description": "Warm black-and-orange reflection on why lived time feels faster."
+    },
+
+    {
+      "id": "fervor-kitchen-drawing",
+      "path": "Fervor/Kitchen Post 1 1.png",
+      "media_type": "image/png",
+      "dimensions": [1920, 1080],
+      "collection": "brands-in-the-wild",
+      "group": "Fervor",
+      "role": "process-opener",
+      "context": "commissioned",
+      "status": "needs-credits"
+    },
+    {
+      "id": "fervor-kitchen-notebook",
+      "path": "Fervor/Kitchen Post 3 1.png",
+      "media_type": "image/png",
+      "dimensions": [1347, 758],
+      "collection": "brands-in-the-wild",
+      "group": "Fervor",
+      "role": "process",
+      "context": "commissioned",
+      "status": "needs-credits"
+    },
+    {
+      "id": "fervor-plated-illustration",
+      "path": "Fervor/Post Updated 3 1.png",
+      "media_type": "image/png",
+      "dimensions": [1200, 750],
+      "collection": "brands-in-the-wild",
+      "group": "Fervor",
+      "role": "bridge-work",
+      "context": "commissioned",
+      "status": "needs-credits"
+    },
+    {
+      "id": "fervor-sketchbook",
+      "path": "Fervor/Sketch 1.png",
+      "media_type": "image/png",
+      "dimensions": [1348, 758],
+      "collection": "brands-in-the-wild",
+      "group": "Fervor",
+      "role": "process-hero",
+      "context": "commissioned",
+      "status": "needs-credits"
+    },
+    {
+      "id": "fervor-sauce-choron",
+      "path": "Fervor/post2.1 slide1 1.png",
+      "media_type": "image/png",
+      "dimensions": [866, 1082],
+      "collection": "brands-in-the-wild",
+      "group": "Fervor ingredient diagrams",
+      "sequence": 1,
+      "role": "information-design",
+      "context": "commissioned",
+      "status": "needs-credits"
+    },
+    {
+      "id": "fervor-green-goddess",
+      "path": "Fervor/post2.1 slide2 1.png",
+      "media_type": "image/png",
+      "dimensions": [870, 1087],
+      "collection": "brands-in-the-wild",
+      "group": "Fervor ingredient diagrams",
+      "sequence": 2,
+      "role": "information-design",
+      "context": "commissioned",
+      "status": "needs-credits"
+    },
+    {
+      "id": "fervor-pork-glaze",
+      "path": "Fervor/post2.1 slide3 1.png",
+      "media_type": "image/png",
+      "dimensions": [863, 1079],
+      "collection": "brands-in-the-wild",
+      "group": "Fervor ingredient diagrams",
+      "sequence": 3,
+      "role": "information-design",
+      "context": "commissioned",
+      "status": "needs-credits"
+    },
+
+    {
+      "id": "supernaati-beegara-oota",
+      "path": "SuperNaati/Beegara Oota.jpg",
+      "media_type": "image/jpeg",
+      "dimensions": [1080, 1350],
+      "collection": "brands-in-the-wild",
+      "group": "SuperNaati",
+      "role": "campaign-graphic",
+      "context": "commissioned",
+      "status": "needs-credits"
+    },
+    {
+      "id": "supernaati-egg-curry",
+      "path": "SuperNaati/Egg Curry.png",
+      "media_type": "image/png",
+      "dimensions": [2160, 1350],
+      "collection": "brands-in-the-wild",
+      "group": "SuperNaati",
+      "role": "campaign-graphic",
+      "context": "commissioned",
+      "status": "needs-credits"
+    },
+    {
+      "id": "supernaati-ghee-roast-cover",
+      "path": "SuperNaati/Ghee Roast/cover 1.png",
+      "media_type": "image/png",
+      "dimensions": [1080, 1350],
+      "collection": "brands-in-the-wild",
+      "group": "SuperNaati Ghee Roast",
+      "sequence": 1,
+      "role": "campaign-sequence",
+      "context": "commissioned",
+      "status": "needs-credits"
+    },
+    {
+      "id": "supernaati-ghee-roast-doodle",
+      "path": "SuperNaati/Ghee Roast/doodle-slide1 1.png",
+      "media_type": "image/png",
+      "dimensions": [1080, 1350],
+      "collection": "brands-in-the-wild",
+      "group": "SuperNaati Ghee Roast",
+      "sequence": 2,
+      "role": "campaign-sequence",
+      "context": "commissioned",
+      "status": "needs-credits"
+    },
+    {
+      "id": "supernaati-ghee-roast-plate",
+      "path": "SuperNaati/Ghee Roast/v2-slide2 1.png",
+      "media_type": "image/png",
+      "dimensions": [1080, 1350],
+      "collection": "brands-in-the-wild",
+      "group": "SuperNaati Ghee Roast",
+      "sequence": 3,
+      "role": "campaign-sequence",
+      "context": "commissioned",
+      "status": "needs-credits"
+    },
+    {
+      "id": "supernaati-lunch-language-1",
+      "path": "SuperNaati/Lunch Language/slide1 2.png",
+      "media_type": "image/png",
+      "dimensions": [1080, 1350],
+      "collection": "brands-in-the-wild",
+      "group": "SuperNaati Lunch Language",
+      "sequence": 1,
+      "role": "campaign-sequence",
+      "context": "commissioned",
+      "status": "needs-translation-and-credits"
+    },
+    {
+      "id": "supernaati-lunch-language-2",
+      "path": "SuperNaati/Lunch Language/Slide2 1.png",
+      "media_type": "image/png",
+      "dimensions": [1080, 1350],
+      "collection": "brands-in-the-wild",
+      "group": "SuperNaati Lunch Language",
+      "sequence": 2,
+      "role": "campaign-sequence",
+      "context": "commissioned",
+      "status": "needs-translation-and-credits"
+    },
+    {
+      "id": "supernaati-lunch-language-3",
+      "path": "SuperNaati/Lunch Language/slide3 1.png",
+      "media_type": "image/png",
+      "dimensions": [1080, 1350],
+      "collection": "brands-in-the-wild",
+      "group": "SuperNaati Lunch Language",
+      "sequence": 3,
+      "role": "campaign-sequence",
+      "context": "commissioned",
+      "status": "needs-translation-and-credits"
+    },
+    {
+      "id": "supernaati-lunch-language-4",
+      "path": "SuperNaati/Lunch Language/slide4 1.png",
+      "media_type": "image/png",
+      "dimensions": [1080, 1350],
+      "collection": "brands-in-the-wild",
+      "group": "SuperNaati Lunch Language",
+      "sequence": 4,
+      "role": "campaign-sequence",
+      "context": "commissioned",
+      "status": "needs-translation-and-credits"
+    },
+    {
+      "id": "supernaati-lunch-language-5",
+      "path": "SuperNaati/Lunch Language/slide5 1.png",
+      "media_type": "image/png",
+      "dimensions": [1080, 1350],
+      "collection": "brands-in-the-wild",
+      "group": "SuperNaati Lunch Language",
+      "sequence": 5,
+      "role": "campaign-sequence",
+      "context": "commissioned",
+      "status": "needs-translation-and-credits"
+    },
+    {
+      "id": "supernaati-lunch-language-6",
+      "path": "SuperNaati/Lunch Language/slide6 1.png",
+      "media_type": "image/png",
+      "dimensions": [1080, 1350],
+      "collection": "brands-in-the-wild",
+      "group": "SuperNaati Lunch Language",
+      "sequence": 6,
+      "role": "campaign-sequence",
+      "context": "commissioned",
+      "status": "needs-translation-and-credits"
+    },
+
+    {
+      "id": "symbol-exploration",
+      "path": "Symbols/Exploration 1.svg",
+      "media_type": "image/svg+xml",
+      "dimensions": [297, 300],
+      "collection": "marks-and-meaning",
+      "group": "Ultrahuman symbol exploration through Yaas Media",
+      "role": "symbol-specimen",
+      "context": "exploratory-unselected",
+      "status": "needs-display-permission"
+    },
+    {
+      "id": "symbol-fitness",
+      "path": "Symbols/Fitness 1.svg",
+      "media_type": "image/svg+xml",
+      "dimensions": [312, 299],
+      "collection": "marks-and-meaning",
+      "group": "Ultrahuman symbol exploration through Yaas Media",
+      "role": "symbol-specimen",
+      "context": "exploratory-unselected",
+      "status": "needs-display-permission"
+    },
+    {
+      "id": "symbol-flower",
+      "path": "Symbols/Flower 1.svg",
+      "media_type": "image/svg+xml",
+      "dimensions": [411, 254],
+      "collection": "marks-and-meaning",
+      "group": "Ultrahuman symbol exploration through Yaas Media",
+      "role": "symbol-specimen",
+      "context": "exploratory-unselected",
+      "status": "needs-display-permission"
+    },
+    {
+      "id": "symbol-group",
+      "path": "Symbols/Group.svg",
+      "media_type": "image/svg+xml",
+      "dimensions": [325, 325],
+      "collection": "marks-and-meaning",
+      "group": "Ultrahuman symbol exploration through Yaas Media",
+      "role": "symbol-specimen",
+      "context": "exploratory-unselected",
+      "status": "needs-display-permission"
+    },
+    {
+      "id": "symbol-growth",
+      "path": "Symbols/Growth 1.svg",
+      "media_type": "image/svg+xml",
+      "dimensions": [297, 298],
+      "collection": "marks-and-meaning",
+      "group": "Ultrahuman symbol exploration through Yaas Media",
+      "role": "symbol-specimen",
+      "context": "exploratory-unselected",
+      "status": "needs-display-permission"
+    },
+    {
+      "id": "symbol-prosperity",
+      "path": "Symbols/Prosperity 1.svg",
+      "media_type": "image/svg+xml",
+      "dimensions": [286, 297],
+      "collection": "marks-and-meaning",
+      "group": "Ultrahuman symbol exploration through Yaas Media",
+      "role": "symbol-specimen",
+      "context": "exploratory-unselected",
+      "status": "needs-display-permission"
+    },
+    {
+      "id": "symbol-ring",
+      "path": "Symbols/Ring 1.svg",
+      "media_type": "image/svg+xml",
+      "dimensions": [300, 300],
+      "collection": "marks-and-meaning",
+      "group": "Ultrahuman symbol exploration through Yaas Media",
+      "role": "symbol-specimen",
+      "context": "exploratory-unselected",
+      "status": "needs-display-permission"
+    },
+
+    {
+      "id": "trace-home",
+      "path": "Trace/home.png",
+      "media_type": "image/png",
+      "dimensions": [350, 710],
+      "collection": "things-i-built",
+      "group": "Trace",
+      "sequence": 1,
+      "role": "product-flow",
+      "context": "unconfirmed",
+      "status": "needs-product-name-confirmation"
+    },
+    {
+      "id": "trace-topic-list",
+      "path": "Trace/topic-list.png",
+      "media_type": "image/png",
+      "dimensions": [327, 702],
+      "collection": "things-i-built",
+      "group": "Trace",
+      "sequence": 2,
+      "role": "product-flow",
+      "context": "unconfirmed",
+      "status": "ready-after-name-confirmation"
+    },
+    {
+      "id": "trace-topic-detail",
+      "path": "Trace/topic-detail.png",
+      "media_type": "image/png",
+      "dimensions": [327, 702],
+      "collection": "things-i-built",
+      "group": "Trace",
+      "role": "product-flow",
+      "context": "unconfirmed",
+      "status": "duplicate-replace",
+      "duplicate_of": "trace-topic-list",
+      "sha256": "0993145ee8dee8e5ee893dc197fa30577b06e846500292e1d9c32233173ca0e0"
+    },
+    {
+      "id": "trace-thread",
+      "path": "Trace/thread.png",
+      "media_type": "image/png",
+      "dimensions": [366, 722],
+      "collection": "things-i-built",
+      "group": "Trace",
+      "sequence": 3,
+      "role": "product-flow",
+      "context": "unconfirmed",
+      "status": "needs-product-name-confirmation"
+    },
+    {
+      "id": "trace-replies",
+      "path": "Trace/replies.png",
+      "media_type": "image/png",
+      "dimensions": [362, 715],
+      "collection": "things-i-built",
+      "group": "Trace",
+      "sequence": 4,
+      "role": "product-flow",
+      "context": "unconfirmed",
+      "status": "needs-product-name-confirmation"
+    },
+    {
+      "id": "trace-reactions",
+      "path": "Trace/reactions.png",
+      "media_type": "image/png",
+      "dimensions": [360, 710],
+      "collection": "things-i-built",
+      "group": "Trace",
+      "sequence": 5,
+      "role": "product-flow",
+      "context": "unconfirmed",
+      "status": "needs-product-name-confirmation"
+    },
+    {
+      "id": "trace-story-continuation",
+      "path": "Trace/story-continuation.png",
+      "media_type": "image/png",
+      "dimensions": [325, 697],
+      "collection": "things-i-built",
+      "group": "Trace",
+      "sequence": 6,
+      "role": "product-flow",
+      "context": "unconfirmed",
+      "status": "needs-product-name-confirmation"
+    },
+    {
+      "id": "trace-write",
+      "path": "Trace/write.png",
+      "media_type": "image/png",
+      "dimensions": [358, 710],
+      "collection": "things-i-built",
+      "group": "Trace",
+      "sequence": 7,
+      "role": "product-flow-closer",
+      "context": "unconfirmed",
+      "status": "needs-product-name-confirmation"
+    },
+
+    {
+      "id": "modi-101-public-figure",
+      "path": "Modi 101/images 2.png",
+      "media_type": "image/png",
+      "dimensions": [530, 579],
+      "collection": "stories-that-travel",
+      "group": "Modi 101 publication evidence",
+      "role": "documentary-evidence",
+      "context": "published",
+      "status": "needs-caption-and-credits"
+    },
+    {
+      "id": "modi-101-portrait",
+      "path": "Modi 101/slide5 2.png",
+      "media_type": "image/png",
+      "dimensions": [1058, 1037],
+      "collection": "stories-that-travel",
+      "group": "Modi 101 publication evidence",
+      "role": "documentary-anchor",
+      "context": "published",
+      "status": "needs-caption-and-credits"
+    },
+    {
+      "id": "modi-101-fadnavis",
+      "path": "Modi 101/images (2) 1.png",
+      "media_type": "image/png",
+      "dimensions": [582, 527],
+      "collection": "stories-that-travel",
+      "group": "Modi 101 publication evidence",
+      "role": "documentary-evidence",
+      "context": "published",
+      "status": "needs-caption-and-credits"
+    },
+    {
+      "id": "modi-101-goswami",
+      "path": "Modi 101/images (3) 1.png",
+      "media_type": "image/png",
+      "dimensions": [495, 619],
+      "collection": "stories-that-travel",
+      "group": "Modi 101 publication evidence",
+      "role": "documentary-evidence",
+      "context": "published",
+      "status": "needs-caption-and-credits"
+    },
+
+    {
+      "id": "lucio-banner",
+      "path": "Lucio/Construction Banner Mockup.png",
+      "media_type": "image/png",
+      "dimensions": [4096, 3072],
+      "collection": "building-from-zero",
+      "group": "Lucio early identity",
+      "role": "hero-application",
+      "context": "commissioned",
+      "status": "needs-date-and-credits"
+    },
+    {
+      "id": "lucio-tote",
+      "path": "Lucio/Tote Bag.png",
+      "media_type": "image/png",
+      "dimensions": [4096, 3072],
+      "collection": "building-from-zero",
+      "group": "Lucio early identity",
+      "role": "application",
+      "context": "commissioned",
+      "status": "needs-date-and-credits"
+    },
+    {
+      "id": "lucio-wordmark-1",
+      "path": "Lucio/Lucio Logo Text Dark 1.png",
+      "media_type": "image/png",
+      "dimensions": [1086, 422],
+      "collection": "building-from-zero",
+      "group": "Lucio early identity",
+      "role": "identity-specimen",
+      "context": "commissioned",
+      "status": "needs-variant-clarification"
+    },
+    {
+      "id": "lucio-wordmark-2",
+      "path": "Lucio/Lucio Logo Text Dark 2.png",
+      "media_type": "image/png",
+      "dimensions": [1085, 422],
+      "collection": "building-from-zero",
+      "group": "Lucio early identity",
+      "role": "identity-specimen",
+      "context": "commissioned",
+      "status": "needs-variant-clarification"
+    },
+    {
+      "id": "lucio-dark-1",
+      "path": "Lucio/Lucio-Dark 1.png",
+      "media_type": "image/png",
+      "dimensions": [1000, 1000],
+      "collection": "building-from-zero",
+      "group": "Lucio early identity",
+      "role": "identity-specimen",
+      "context": "commissioned",
+      "status": "needs-variant-clarification"
+    },
+    {
+      "id": "lucio-dark-2",
+      "path": "Lucio/Lucio-Dark 2.png",
+      "media_type": "image/png",
+      "dimensions": [1000, 1000],
+      "collection": "building-from-zero",
+      "group": "Lucio early identity",
+      "role": "identity-specimen",
+      "context": "commissioned",
+      "status": "needs-variant-clarification"
+    },
+
+    {
+      "id": "poster-einstein",
+      "path": "Posters/Einstein_Poster 1.png",
+      "media_type": "image/png",
+      "dimensions": [1754, 2481],
+      "collection": "imaginary-worlds",
+      "group": "Character posters",
+      "role": "monumental-poster",
+      "context": "self-initiated",
+      "status": "needs-date-confirmation"
+    },
+    {
+      "id": "poster-oppenheimer",
+      "path": "Posters/Oppie_Final copy 2 1.png",
+      "media_type": "image/png",
+      "dimensions": [1755, 2481],
+      "collection": "imaginary-worlds",
+      "cross_links": ["visual-stories"],
+      "group": "Character posters",
+      "role": "monumental-poster",
+      "context": "self-initiated",
+      "status": "needs-date-confirmation"
+    },
+    {
+      "id": "poster-batman",
+      "path": "Posters/batman9 1.png",
+      "media_type": "image/png",
+      "dimensions": [1749, 2481],
+      "collection": "imaginary-worlds",
+      "group": "Character posters",
+      "role": "monumental-poster",
+      "context": "self-initiated",
+      "status": "needs-date-confirmation"
+    },
+    {
+      "id": "poster-folder",
+      "path": "Posters/Folder.png",
+      "media_type": "image/png",
+      "dimensions": [4096, 3072],
+      "collection": "imaginary-worlds",
+      "group": "Poster object mockups",
+      "role": "supporting-mockup",
+      "context": "self-initiated",
+      "status": "ready"
+    },
+    {
+      "id": "poster-folder-1",
+      "path": "Posters/Folder-1.png",
+      "media_type": "image/png",
+      "dimensions": [4096, 3072],
+      "collection": "imaginary-worlds",
+      "group": "Poster object mockups",
+      "role": "supporting-mockup",
+      "context": "self-initiated",
+      "status": "ready"
+    },
+    {
+      "id": "poster-folder-2",
+      "path": "Posters/Folder-2.png",
+      "media_type": "image/png",
+      "dimensions": [4096, 3072],
+      "collection": "imaginary-worlds",
+      "group": "Poster object mockups",
+      "role": "supporting-mockup",
+      "context": "self-initiated",
+      "status": "ready"
+    },
+
+    {
+      "id": "personal-night-moon",
+      "path": "me/WhatsApp Image 2026-11-03 at 12.08.31.jpeg",
+      "media_type": "image/jpeg",
+      "dimensions": [4096, 3072],
+      "collection": "behind-the-work",
+      "group": "Personal observations",
+      "role": "observation-grid",
+      "context": "personal",
+      "status": "needs-caption"
+    },
+    {
+      "id": "personal-lego",
+      "path": "me/WhatsApp Image 2026-11-03 at 12.09.16.jpeg",
+      "media_type": "image/jpeg",
+      "dimensions": [4096, 3072],
+      "collection": "behind-the-work",
+      "group": "Personal observations",
+      "role": "observation-grid",
+      "context": "personal",
+      "status": "needs-caption"
+    },
+    {
+      "id": "personal-pink-sunset-1",
+      "path": "me/WhatsApp Image 2026-11-03 at 12.10.30.jpeg",
+      "media_type": "image/jpeg",
+      "dimensions": [4096, 3072],
+      "collection": "behind-the-work",
+      "group": "Personal observations",
+      "role": "observation-grid",
+      "context": "personal",
+      "status": "select-one-of-pair"
+    },
+    {
+      "id": "personal-pink-sunset-2",
+      "path": "me/WhatsApp Image 2026-11-03 at 12.10.32.jpeg",
+      "media_type": "image/jpeg",
+      "dimensions": [4096, 3072],
+      "collection": "behind-the-work",
+      "group": "Personal observations",
+      "role": "observation-grid",
+      "context": "personal",
+      "status": "select-one-of-pair"
+    },
+    {
+      "id": "personal-cloudscape",
+      "path": "me/WhatsApp Image 2026-11-03 at 12.12.30.jpeg",
+      "media_type": "image/jpeg",
+      "dimensions": [4160, 3120],
+      "collection": "behind-the-work",
+      "group": "Personal observations",
+      "role": "observation-grid",
+      "context": "personal",
+      "status": "needs-caption"
+    },
+    {
+      "id": "personal-desk",
+      "path": "me/WhatsApp Image 2026-11-03 at 12.12.33.jpeg",
+      "media_type": "image/jpeg",
+      "dimensions": [2304, 4096],
+      "collection": "behind-the-work",
+      "group": "Personal observations",
+      "role": "environment-anchor",
+      "context": "personal",
+      "status": "ready-after-caption"
+    },
+    {
+      "id": "personal-train-portrait",
+      "path": "me/WhatsApp Image 2026-11-03 at 12.14.44.jpeg",
+      "media_type": "image/jpeg",
+      "dimensions": [2304, 4096],
+      "collection": "behind-the-work",
+      "group": "Personal observations",
+      "role": "about-portrait",
+      "context": "personal",
+      "status": "ready-after-caption"
+    },
+    {
+      "id": "personal-mountain-selfie",
+      "path": "me/WhatsApp Image 2026-11-03 at 12.16.01.jpeg",
+      "media_type": "image/jpeg",
+      "dimensions": [4096, 2304],
+      "collection": "behind-the-work",
+      "group": "Personal observations",
+      "role": "optional-footer-image",
+      "context": "personal",
+      "status": "optional"
+    }
+  ],
+  "unrepresented_work": [
+    {
+      "name": "Articled",
+      "reason": "No explicitly labeled assets found; relationship to Trace is unconfirmed."
+    },
+    {
+      "name": "Fava",
+      "reason": "No assets found."
+    },
+    {
+      "name": "BLR Bistro",
+      "reason": "No assets found."
+    }
+  ]
+}
